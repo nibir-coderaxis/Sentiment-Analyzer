@@ -1,0 +1,8 @@
+As this project is a subject of an ongoing joint research, 
+so I can't provide the source codes and the database file used in this project.
+
+I shared my thesis book named "Sentiment Analysis.pdf" where you can find details about this research project.
+
+For Quick View:
+page 60 : Main Flowchart of this project
+page 61-63: Screen shots of this project application with an example. 
